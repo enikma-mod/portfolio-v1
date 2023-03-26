@@ -8,3 +8,6 @@ This a simple and responsive web pages created using HTML, CSS, Bootstrap and a 
 
 ### Skills Page
 ![Home Page](./img/skills_page.png)
+
+###Link
+[link](https://cheerful-rolypoly-26e809.netlify.app/)
